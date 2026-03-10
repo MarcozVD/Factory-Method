@@ -302,7 +302,7 @@ class App(ctk.CTk):
 
         self.metodo = ctk.CTkOptionMenu(
             self.card,
-            values=["Tarjeta", "PayPal"],
+            values=["Tarjeta", "PayPal" ],
             height=42,
             fg_color=PANEL,
             button_color=ACCENT2,
