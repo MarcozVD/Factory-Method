@@ -1,0 +1,23 @@
+[
+  {
+    "cliente": "Marcos V",
+    "ultimo_monto": "60000",
+    "ultimo_metodo": "Tarjeta",
+    "ultimo_pago": "10/03/2026",
+    "total_pagos": 3
+  },
+  {
+    "cliente": "Mar213",
+    "ultimo_monto": "600",
+    "ultimo_metodo": "PayPal",
+    "ultimo_pago": "10/03/2026",
+    "total_pagos": 3
+  },
+  {
+    "cliente": "Jose T",
+    "ultimo_monto": "300",
+    "ultimo_metodo": "PayPal",
+    "ultimo_pago": "10/03/2026",
+    "total_pagos": 2
+  }
+]
